@@ -1,0 +1,195 @@
+.body {
+    width: 70%;
+    margin: 0;
+}
+.bottom {
+margin-top: 150px;
+}
+
+.men{
+ width: 70%;
+    margin: 0 auto;
+    
+    
+} 
+.clr {
+    
+    clear:both;
+}
+.men1{
+    background-color: red;
+    padding: 20px 30px;
+    margin-top: 20px;
+    border: 5px solid #fff;
+   
+}
+.men1 h1{
+    text-align: center;
+    text-decoration:underline;
+    font-family: sans-serif;
+    color: aqua;
+}
+.men1 p{
+  color:black;
+    
+    
+}
+.men2 {
+   margin-top: 30px ;
+    border: 3px dashed #111111;
+    padding: 20px;
+}
+.men2 h1, .men2 p{
+    color:aquamarine;
+}
+
+.button {
+ background: blue;
+    color: azure;
+    font-size: 15px;
+    border: 2px solid red;
+    padding: 5px 10px;
+    border-radius: 50px;
+    
+}
+.button:hover {
+   cursor:pointer;
+    background-color: antiquewhite;
+    color: aquamarine;      
+}
+.jadval {
+ margin: 30px 0 ;
+    border: 1px solid red;
+    padding: 20px;
+}
+    .jadval h1 {
+    text-align: center;
+    color:red;  
+    font-family: sans-serif;
+}
+.jadval {
+ padding: o;    
+}
+.jadval li{
+  list-style-type:none;
+   padding: 5px 0;
+    border-bottom: 1px solid black;
+}
+
+ 
+.myform label{
+ display: block;   
+  font-size:20px; 
+  color:aquamarine
+}
+.myform input, form textarea {
+   margin: px 0; 
+   padding: 5px;
+    width: 100%;
+}
+
+.blok {
+  float:left;
+  width: 33.3% ; 
+    border: 1px solid #555;
+    padding: 10px;
+    box-sizing: border-box
+}
+
+.content {
+   float:left;
+    width: 70%; 
+}
+
+.sidebar {
+   float:left;
+    width: 30%;
+    background-color: #333;
+    color:aliceblue;
+     box-sizing: border-box;
+    padding:0 10px;
+}
+
+.relative {
+position:relative;
+top:0px;
+width: auto;
+height: 700px;
+background-image:url(photo_2023-04-25_01-11-38v.jpg) ;
+background-size: cover;
+background-position:bottom ;
+}
+    
+.absolute {
+ position: absolute;
+ top:90%;
+ right: 45%;
+    }   
+    
+.fixed{
+  position:fixed;
+    left: 0;
+    top: 95%;
+    
+} 
+    
+    
+.list-itens li {
+   color:#555 ;
+    padding:5px;
+    list-style-type: none;
+    
+}
+    
+.list-itens li:first-child { 
+background-color: antiquewhite;
+color:aqua;
+}  
+ .list-itens li:last-child { 
+background-color: blue;
+color:red;
+}   
+.list-itens li:nth-child(even)  {
+  background-color: black;
+    color: aqua;
+    
+}
+    
+   .list-itens li:nth-child(odd)  {
+  background-color: aqua;
+    color: black;
+    
+} 
+    
+.table1 {
+  width: 100%;
+    border-collapse: collapse
+} 
+.table1 th {
+ border: 1px solid #555;   
+  background-color: green;
+   color: white;
+    padding: 5px;
+}
+
+.table1 td{
+  text-align: center;
+border: 1px solid #555;
+ padding: 5px;   
+    
+}
+
+.table1 tr:nth-child(even) {
+   background-color: darkgrey ;
+   color: #fff
+    
+}
+
+.table1 tr:nth-child(odd) {
+   background-color: cornflowerblue;
+   color: lightgray
+    
+}
+
+
+

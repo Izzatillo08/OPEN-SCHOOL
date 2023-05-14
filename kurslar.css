@@ -1,0 +1,70 @@
+body {
+    background-color: rgba(231, 234, 238, 0.822);
+    margin: 0;
+
+}
+
+.men1 {
+    background-color: rgba(20, 169, 206, 0.822);
+    padding: 0px; ;
+}
+    
+.men1 h1 {
+    color: white;
+    width: 60%;
+    padding-left: 10%;
+    padding-top:1% ;
+
+}
+.men2 {
+    background-color: rgba(10, 117, 167, 0.925);
+    padding:0px ;
+    margin-top: 10px;
+}
+.men2 a {
+    text-decoration: none;
+    font-family: sans-serif;
+    display: inline-block;
+    color: black;
+    font-family: sans-serif;
+    
+}
+.men3 {
+    background-image:url(izzat.jfif) ;
+    padding: 84px;
+   width:10% ;
+}
+.men4 h3 ,h4{
+    margin-bottom: -1.5%;
+}
+.men5   a{
+    background-color:  rgba(10, 117, 167, 0.925);
+   
+    color: black;
+    display: inline-block;
+    text-decoration: none;
+}
+.men6 {
+    background-image: url(izzat.jfif);
+    padding: 84px;
+    width: 10%;
+}
+.men7 a {
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    background-color: rgba(10, 117, 167, 0.925);
+}
+
+
+.men8 a h3 {
+    text-decoration: none;
+    display: inline-block;
+    padding-left: 20%;
+    width: 100%;
+    color: black;
+    margin: 3px; ;
+}
+.men9 {
+    padding-top: 5px;
+}

@@ -1,0 +1,41 @@
+.men1 {
+    background-color: rgb(155, 71, 15);
+}
+.men2  h1{
+    padding-left: 10%;
+    padding-bottom: 2px;
+    color: aliceblue;
+}
+.men3 input , form {
+    margin: px 0;
+    padding: 5px;
+    width: 40%;
+    margin-left:30% ;
+}
+.men3 label {
+    display: block;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin-left:30% ;
+}
+.button {
+    background-color: aquamarine;
+    color: rgb(61, 9, 9);
+    font-size: 15px;
+    border:2px solid rgb(0, 0, 0) ;
+    padding: 5px 15px;
+    border-radius: 15%;
+   margin-left:80% ;
+    width: 13%;
+} 
+
+.button:hover {
+  cursor: pointer;  
+  background-color: antiquewhite;
+  color: black;
+}
+.button a{
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+}
